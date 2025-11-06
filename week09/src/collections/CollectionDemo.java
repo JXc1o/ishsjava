@@ -4,7 +4,8 @@ import java.util.ArrayList;
 
 public class CollectionDemo {
     public static void main(String[] args) {
-        ArrayList<Fruit> fruits = new ArrayList<>();
+        ArrayList<Fruit> fruits = new
+                ArrayList<>();
 //        System.out.println(fruits.isEmpty());  // true
 
         fruits.add(new Fruit("Kiwi", 3000));
